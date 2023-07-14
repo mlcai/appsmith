@@ -1,0 +1,57 @@
+{
+    "mobileBottomRow": 50,
+    "widgetName": "SwitchGroup1",
+    "widthInPercentage": 0.31290743155149936,
+    "isCanvas": false,
+    "displayName": "Switch Group",
+    "iconSVG": "https://appcdn.appsmith.com/static/media/icon.03523a36719880adf0dcca9025cd0026.svg",
+    "labelText": "Label",
+    "topRow": 42.2,
+    "bottomRow": 50.400000000000006,
+    "parentRowSpace": 10,
+    "labelWidth": 5,
+    "type": "SWITCH_GROUP_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 14,
+    "animateLoading": true,
+    "parentColumnSpace": 11.859375,
+    "leftColumn": 0,
+    "dynamicBindingPathList": [{"key": "accentColor"}],
+    "labelPosition": "Top",
+    "options": [
+        {
+            "label": "Blue",
+            "value": "BLUE"
+        },
+        {
+            "label": "Green",
+            "value": "GREEN"
+        },
+        {
+            "label": "Red",
+            "value": "RED"
+        }
+    ],
+    "isDisabled": false,
+    "key": "hj04a7z43w",
+    "labelTextSize": "0.875rem",
+    "isRequired": false,
+    "isDeprecated": false,
+    "rightColumn": 20.23715415019763,
+    "defaultSelectedValues": ["BLUE"],
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "6wkgwlqlkw",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "isVisible": true,
+    "version": 1,
+    "parentId": "0",
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 43,
+    "mobileLeftColumn": 0,
+    "maxDynamicHeight": 9000,
+    "isInline": true,
+    "alignment": "start",
+    "minDynamicHeight": 4
+}
