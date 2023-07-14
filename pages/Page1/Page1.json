@@ -9,7 +9,7 @@
           "mobileBottomRow": 1292,
           "widgetName": "MainContainer",
           "topRow": 0,
-          "bottomRow": 504.00000000000006,
+          "bottomRow": 1292,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
@@ -54,10 +54,29 @@
                   "align": "start"
                 }
               ]
+            },
+            {
+              "children": [
+                {
+                  "id": "ai8hetkeio",
+                  "align": "start"
+                }
+              ]
             }
           ]
         },
-        "layoutOnLoadActions": [],
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "Page1_Query1",
+              "name": "Query1",
+              "confirmBeforeExecute": false,
+              "pluginType": "DB",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page1",
